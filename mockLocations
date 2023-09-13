@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "latitude": 37.0577543,
+        "longitude": 35.3549159,
+        "adress": "Rektörlük İdari Birimler",
+        "description": "The Ramazan Yazgan"
+    },
+    {
+        "id": "2",
+        "latitude": 37.0598562,
+        "longitude": 35.3547657,
+        "adress": "Bilgi İşlem Daire Başkanlığı Ağ Hizmetleri ve Kullanıcı Destek Birimi",
+        "description": "Kütüphane Binası Zemin Kat"
+    },
+    {
+        "id": "3",
+        "latitude": 37.0615,
+        "longitude": 35.3553343,
+        "adress": "II. Grup Amfiler",
+        "description": "Amfi 4-5"
+    },
+    {
+        "id": "4",
+        "latitude": 37.063519,
+        "longitude": 35.363991,
+        "adress": "Software",
+        "description": "The Bilgi İşlem"
+    }
+]
